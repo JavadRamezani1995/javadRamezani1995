@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there,👋 I’m Javad Ramezani
 
-<!--
-**JavadRamezani1995/javadRamezani1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### PhD Candidate in Time Series & NLP | ML / AI Engineer | Researcher & Developer
 
-Here are some ideas to get you started:
+I am passionate about building robust, explainable, and efficient AI systems in the domains of time series forecasting and natural language understanding. My goal is to bridge the gap between research and real-world applications through deep learning and sequence modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+* Researching time series forecasting, sequence modeling, and NLP for real-world applications (e.g. finance, health, social data)  
+* 🧠 Experienced in Transformer architectures, probabilistic models, sequence-to-sequence models, and attention mechanisms  
+* Developing explainable AI solutions in time series & language domains  
+* Based in Taiwan | Working with Python, PyTorch, TensorFlow, Hugging Face, etc.  
+* Let’s connect: [Javadramezani2000@gmail.com]
+
+---
+
+## Skills & Tools
+
+| Area | Tools & Libraries |
+|---|---|
+| Time Series / Forecasting | ARIMA, LSTM, Prophet, TCN, TS-transformers |
+| NLP / Language Models | Transformers (BERT, GPT, etc.), tokenization, embedding methods |
+| Deep Learning | PyTorch, TensorFlow, Keras |
+| Explainability & Interpretability | SHAP, LIME, attention visualization, feature importance |
+
